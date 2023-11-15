@@ -26,7 +26,7 @@
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-5. Then Click [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/usmanser123/USMAN-MD) Button To Enjoy My Bot.
+5. Then Click [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/musman1316/USMAN-MD) Button To Enjoy My Bot.
 
 
 ## Owner:
